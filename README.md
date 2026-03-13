@@ -84,4 +84,4 @@ Ce script peut être adapté pour scraper n'importe quelle source :
 
 **Développeur Python freelance basé à Paris — livraison en 48-72h**
 
-👉 [Mon profil Malt](https://www.malt.fr) | 📧 ton@email.com
+👉 https://www.malt.fr/profile/ilyesbenyahia1 | 📧 ilyesbenyahia92@gmail.com
