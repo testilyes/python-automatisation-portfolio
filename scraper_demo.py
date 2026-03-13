@@ -4,7 +4,7 @@
 Scrape les dernières actualités tech de Hacker News
 et les stocke dans une base de données SQLite.
 
-Auteur  : Ton Nom
+Auteur  : ilyes benyahia
 Stack   : Python 3 · requests · BeautifulSoup4 · SQLite
 Usage   : python scraper_demo.py
 """
